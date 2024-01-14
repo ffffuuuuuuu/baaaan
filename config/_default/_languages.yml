@@ -1,0 +1,10 @@
+en:
+  languageName: English
+  languagedirection: ltr
+  title: TH Baan
+  weight: 1
+th:
+  languageName: TH
+  languagedirection: ltr
+  title: บ้าน
+  weight: 1

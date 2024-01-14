@@ -1,0 +1,6 @@
+baseurl: https://somestuff
+languageCode: en-us
+paginate: 5
+title: บ้าน
+defaultContentLanguage: en
+hasCJKLanguage: false
